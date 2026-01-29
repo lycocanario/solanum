@@ -11,6 +11,6 @@ I use:
 - JavaScript
 - Git & GitHub for version control and hosting
 
-# About
+## About
 This project was initially created directly on GitHub and later developed further in VS Code.  
 It serves as a portfolio to highlight creative works and experiments in web design.
